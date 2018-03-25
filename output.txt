@@ -1,0 +1,58 @@
+Station 0: In-Connection set to conveyer 2
+Station 0: Out-Connection set to conveyer 0
+Station 0: Workload set to 2
+Station 1: In-Connection set to conveyer 0
+Station 1: Out-Connection set to conveyer 1
+Station 1: Workload set to 3
+Station 2: In-Connection set to conveyer 1
+Station 2: Out-Connection set to conveyer 2
+Station 2: Workload set to 4
+
+
+Station 2: granted access to conveyer 1
+Station 2: granted access to conveyer 2
+Station 2: moves packages on conveyer 2, 3 remaining.
+Station 1: granted access to conveyer 0
+Station 1: released access to conveyer 0
+Station 2: released access to conveyer 1
+Station 2: released access to conveyer 2
+Station 2: granted access to conveyer 1
+Station 2: granted access to conveyer 2
+Station 2: moves packages on conveyer 2, 2 remaining.
+Station 2: released access to conveyer 1
+Station 2: released access to conveyer 2
+Station 0: granted access to conveyer 2
+Station 0: granted access to conveyer 0
+Station 0: moves packages on conveyer 0, 1 remaining.
+Station 0: released access to conveyer 2
+Station 0: released access to conveyer 0
+Station 0: granted access to conveyer 2
+Station 0: granted access to conveyer 0
+*************************Station 0: workload successfully completed!*************************
+Station 0: released access to conveyer 2
+Station 0: released access to conveyer 0
+Station 2: granted access to conveyer 1
+Station 2: granted access to conveyer 2
+Station 2: moves packages on conveyer 2, 1 remaining.
+Station 2: released access to conveyer 1
+Station 2: released access to conveyer 2
+Station 1: granted access to conveyer 0
+Station 1: granted access to conveyer 1
+Station 1: moves packages on conveyer 1, 2 remaining.
+Station 1: released access to conveyer 0
+Station 1: released access to conveyer 1
+Station 1: granted access to conveyer 0
+Station 1: granted access to conveyer 1
+Station 1: moves packages on conveyer 1, 1 remaining.
+Station 1: released access to conveyer 0
+Station 1: released access to conveyer 1
+Station 1: granted access to conveyer 0
+Station 1: granted access to conveyer 1
+*************************Station 1: workload successfully completed!*************************
+Station 1: released access to conveyer 0
+Station 1: released access to conveyer 1
+Station 2: granted access to conveyer 1
+Station 2: granted access to conveyer 2
+*************************Station 2: workload successfully completed!*************************
+Station 2: released access to conveyer 1
+Station 2: released access to conveyer 2
